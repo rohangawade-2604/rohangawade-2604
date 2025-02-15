@@ -1,8 +1,6 @@
 <h1 align="left">Hey 👋 I'm Rohan Gawade...!</h1>
 
 
-### upper animation part
-
 ###
 
 <p align="left">My name is Rohan Narsu Gawade and I'm a Frontend Developer from Mumbai Maharashtra...</p>
