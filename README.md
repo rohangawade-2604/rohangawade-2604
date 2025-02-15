@@ -1,5 +1,32 @@
 <h1 align="left">Hey 👋 I'm Rohan Gawade...!</h1>
 
+<svg viewBox="0 0 500 60" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
+    }
+    @keyframes blink {
+      50% { border-color: transparent }
+    }
+    text {
+      font-family: "Arial, sans-serif";
+      font-size: 24px;
+      font-weight: bold;
+      white-space: nowrap;
+      overflow: hidden;
+      display: inline-block;
+      width: 0;
+      border-right: 2px solid black;
+      animation: typing 3s steps(20, end) forwards, blink 0.7s infinite;
+    }
+  </style>
+  <text x="10" y="40" fill="black">Hey 👋 I'm Rohan Gawade...!</text>
+</svg>
+
+
+### upper animation part
+
 ###
 
 <p align="left">My name is Rohan Narsu Gawade and I'm a Frontend Developer from Mumbai Maharashtra...</p>
