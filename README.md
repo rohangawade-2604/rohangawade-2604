@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Rohan Narsu Gawade and I'm a .Frontend Developer from Mumbai Maharashtra...</p>
 
 ###
 
