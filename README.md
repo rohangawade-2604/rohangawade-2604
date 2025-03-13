@@ -36,8 +36,6 @@
 
 ###
 
-2nd part
-
 ###
 
 <div align="center">
