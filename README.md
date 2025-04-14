@@ -88,3 +88,5 @@
 <img src="https://raw.githubusercontent.com/rohangawade-2604/rohangawade-2604/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohangawade-2604&" alt="rohangawade-2604" /></p>
