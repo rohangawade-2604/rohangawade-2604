@@ -18,8 +18,8 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since ...<br><br>📚 I'm a Frontend Developer from Mumbai <br><br>🎯 Currently I am learning , HTML , CSS , javascript , JQuery , React.js <br><br>🎲Reach Me , <a href="rohangawade2604@gmail.com"> rohangawade064@gmail.com </a> <br>
-🎲Reach Me , <br> <a href="https://ronnie2605.netlify.app/"> My Portfolio  </a>
+<h4 align="left">✨ Creating bugs since ...<br><br>📚 I'm a Frontend Developer from Mumbai <br><br>🎯 Currently I am learning , HTML , CSS , javascript , JQuery , React.js <br><br>🎲Reach Me , <a href="rohangawade2604@gmail.com"> rohangawade064@gmail.com </a> <br> <br>
+😄 Visit On this to Explore my Journey , <a href="https://ronnie2605.netlify.app/"> My Portfolio  </a>
 </h4>
 
 ###
