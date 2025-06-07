@@ -94,7 +94,7 @@
 
 ###
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohangawade-2604&theme=github)
 
 
-<img src="https://raw.githubusercontent.com/rohangawade-2604/rohangawade-2604/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/rohangawade-2604/rohangawade-2604/blob/output/github-contribution-grid-snake-dark.svg)
+
