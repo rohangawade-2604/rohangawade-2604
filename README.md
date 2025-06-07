@@ -94,7 +94,5 @@
 
 ###
 
-
-
 ![snake gif](https://github.com/rohangawade-2604/rohangawade-2604/blob/output/github-contribution-grid-snake-dark.svg)
 
